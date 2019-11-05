@@ -1,0 +1,22 @@
+{
+	"HOME": {
+		"TIPS": "Multilingual Case"
+	},
+	"TABS": {
+		"HOME": "Home"
+	},
+	"personal": {
+		"title": "Personal"
+	},
+	"tabs": {
+		"个人": "personal",
+		"热门": "hot",
+		"类别": "classify",
+		"购物车": "cart"
+	},
+	"tutorial": {
+		"Continue": "continue",
+		"Skip": "skip",
+		"welcome": "Welcome"
+	}
+}

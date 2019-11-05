@@ -1,0 +1,22 @@
+{
+	"HOME": {
+		"TIPS": "Trường hợp chuyển đổi đa ngôn ngữ"
+	},
+	"TABS": {
+		"HOME": "Trang chủ"
+	},
+	"personal": {
+		"title": "Cá nhân"
+	},
+	"tabs": {
+		"个人": "Cá nhân",
+		"热门": "Phổ biến",
+		"类别": "Thể loại",
+		"购物车": "Giỏ hàng"
+	},
+	"tutorial": {
+		"Continue": "Tiếp tục",
+		"Skip": "Bỏ qua",
+		"welcome": "Chào mừng bạn"
+	}
+}
