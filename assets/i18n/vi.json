@@ -5,8 +5,31 @@
 	"TABS": {
 		"HOME": "Trang chủ"
 	},
+	"cart": {
+		"title": "Giỏ hàng"
+	},
+	"finished": "Kết thúc",
+	"goods-info-detail": {
+		"buy": "Mua ngay",
+		"cart": "Thêm vào giỏ hàng",
+		"choice": "Chọn",
+		"请选择": "Vui lòng chọn"
+	},
+	"hot": {
+		"recommend": "Khuyến nghị phổ biến"
+	},
+	"login": {
+		"login": "Đăng nhập",
+		"password": "mật khẩu",
+		"tile": "Đăng nhập",
+		"username": "Tên đăng nhập"
+	},
 	"personal": {
 		"title": "Cá nhân"
+	},
+	"search": {
+		"history": "Lịch sử",
+		"hotSearch": "Tìm kiếm phổ biến"
 	},
 	"tabs": {
 		"个人": "Cá nhân",

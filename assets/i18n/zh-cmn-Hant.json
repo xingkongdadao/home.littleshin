@@ -5,8 +5,31 @@
 	"TABS": {
 		"HOME": "首頁"
 	},
+	"cart": {
+		"title": "購物車"
+	},
+	"finished": "結束",
+	"goods-info-detail": {
+		"buy": "立刻購買",
+		"cart": "加入購物車",
+		"choice": "選擇",
+		"请选择": "請選擇"
+	},
+	"hot": {
+		"recommend": "熱門推薦"
+	},
+	"login": {
+		"login": "登錄",
+		"password": "密碼",
+		"tile": "登錄",
+		"username": "用戶名"
+	},
 	"personal": {
 		"title": "個人"
+	},
+	"search": {
+		"history": "歷史記錄",
+		"hotSearch": "熱門搜索"
 	},
 	"tabs": {
 		"个人": "個人",

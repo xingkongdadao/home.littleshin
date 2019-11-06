@@ -5,8 +5,31 @@
 	"TABS": {
 		"HOME": "Home"
 	},
+	"cart": {
+		"title": "Shopping cart"
+	},
+	"finished": "END",
+	"goods-info-detail": {
+		"buy": "Buy",
+		"cart": "add to Shopping Cart",
+		"choice": "Select",
+		"请选择": "please choose"
+	},
+	"hot": {
+		"recommend": "Popular recommendation"
+	},
+	"login": {
+		"login": "Log In",
+		"password": "Password",
+		"tile": "Log In",
+		"username": "Username"
+	},
 	"personal": {
 		"title": "Personal"
+	},
+	"search": {
+		"history": "history record",
+		"hotSearch": "Popular searches"
 	},
 	"tabs": {
 		"个人": "personal",

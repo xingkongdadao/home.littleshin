@@ -5,8 +5,31 @@
 	"TABS": {
 		"HOME": "ホーム"
 	},
+	"cart": {
+		"title": "ショッピングカート"
+	},
+	"finished": "終了",
+	"goods-info-detail": {
+		"buy": "今すぐ購入",
+		"cart": "カートに追加",
+		"choice": "選ぶ",
+		"请选择": "選択してください"
+	},
+	"hot": {
+		"recommend": "人気の推薦"
+	},
+	"login": {
+		"login": "ログイン",
+		"password": "パスワード",
+		"tile": "ログイン",
+		"username": "ユーザー名"
+	},
 	"personal": {
 		"title": "個人"
+	},
+	"search": {
+		"history": "歴史",
+		"hotSearch": "人気の検索"
 	},
 	"tabs": {
 		"个人": "個人",

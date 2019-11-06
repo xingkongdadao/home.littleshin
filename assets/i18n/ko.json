@@ -5,8 +5,31 @@
 	"TABS": {
 		"HOME": "홈"
 	},
+	"cart": {
+		"title": "장바구니"
+	},
+	"finished": "끝",
+	"goods-info-detail": {
+		"buy": "지금 구매",
+		"cart": "장바구니에 담기",
+		"choice": "선택",
+		"请选择": "선택하세요"
+	},
+	"hot": {
+		"recommend": "인기 추천"
+	},
+	"login": {
+		"login": "로그인",
+		"password": "비밀번호",
+		"tile": "로그인",
+		"username": "아이디"
+	},
 	"personal": {
 		"title": "개인"
+	},
+	"search": {
+		"history": "연혁",
+		"hotSearch": "인기 검색"
 	},
 	"tabs": {
 		"个人": "개인",
