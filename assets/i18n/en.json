@@ -10,22 +10,43 @@
 	},
 	"finished": "END",
 	"goods-info-detail": {
+		"addToCart": "add to Cart",
 		"buy": "Buy",
 		"cart": "add to Shopping Cart",
 		"choice": "Select",
 		"请选择": "please choose"
 	},
 	"hot": {
+		"guessYouLike": "guess you like",
 		"recommend": "Popular recommendation"
 	},
+	"loading": "Desperately loading...",
 	"login": {
+		"homePage": "Home",
 		"login": "Log In",
 		"password": "Password",
+		"register": "Register",
 		"tile": "Log In",
 		"username": "Username"
 	},
 	"personal": {
-		"title": "Personal"
+		"all_order": "All orders",
+		"login": "Log In",
+		"logout": "Sign Out",
+		"my-favorite": "my collection",
+		"non-payment": "Pending Payment",
+		"non-received": "Pending receipt",
+		"register": "Register",
+		"select-language": "Language",
+		"title": "Personal",
+		"user_level": "User level",
+		"username": "Username"
+	},
+	"register": {
+		"login": "sign in",
+		"password": "Password",
+		"register": "Registered",
+		"username": "Username"
 	},
 	"search": {
 		"history": "history record",

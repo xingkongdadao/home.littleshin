@@ -10,22 +10,43 @@
 	},
 	"finished": "終了",
 	"goods-info-detail": {
+		"addToCart": "カートに追加",
 		"buy": "今すぐ購入",
 		"cart": "カートに追加",
 		"choice": "選ぶ",
 		"请选择": "選択してください"
 	},
 	"hot": {
+		"guessYouLike": "あなたが好きなものを推測する",
 		"recommend": "人気の推薦"
 	},
+	"loading": "必死に読み込んでいます...",
 	"login": {
+		"homePage": "ホーム",
 		"login": "ログイン",
 		"password": "パスワード",
+		"register": "登録",
 		"tile": "ログイン",
 		"username": "ユーザー名"
 	},
 	"personal": {
-		"title": "個人"
+		"all_order": "すべての注文",
+		"login": "ログイン",
+		"logout": "ログアウト",
+		"my-favorite": "私のコレクション",
+		"non-payment": "保留中の支払い",
+		"non-received": "保留中の領収書",
+		"register": "登録",
+		"select-language": "言語",
+		"title": "個人",
+		"user_level": "ユーザーレベル",
+		"username": "ユーザー名"
+	},
+	"register": {
+		"login": "ログイン",
+		"password": "パスワード",
+		"register": "登録",
+		"username": "ユーザー名"
 	},
 	"search": {
 		"history": "歴史",

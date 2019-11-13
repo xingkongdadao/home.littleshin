@@ -10,22 +10,43 @@
 	},
 	"finished": "끝",
 	"goods-info-detail": {
+		"addToCart": "장바구니에 담기",
 		"buy": "지금 구매",
 		"cart": "장바구니에 담기",
 		"choice": "선택",
 		"请选择": "선택하세요"
 	},
 	"hot": {
+		"guessYouLike": "당신이 좋아하는 것 같아",
 		"recommend": "인기 추천"
 	},
+	"loading": "필사적으로로드 중 ...",
 	"login": {
+		"homePage": "홈",
 		"login": "로그인",
 		"password": "비밀번호",
+		"register": "등록",
 		"tile": "로그인",
 		"username": "아이디"
 	},
 	"personal": {
-		"title": "개인"
+		"all_order": "모든 주문",
+		"login": "로그인",
+		"logout": "로그 아웃",
+		"my-favorite": "내 컬렉션",
+		"non-payment": "지불 보류",
+		"non-received": "보류중인 영수증",
+		"register": "등록",
+		"select-language": "언어",
+		"title": "개인",
+		"user_level": "사용자 수준",
+		"username": "아이디"
+	},
+	"register": {
+		"login": "로그인",
+		"password": "비밀번호",
+		"register": "등록",
+		"username": "아이디"
 	},
 	"search": {
 		"history": "연혁",

@@ -10,22 +10,43 @@
 	},
 	"finished": "Kết thúc",
 	"goods-info-detail": {
+		"addToCart": "Thêm vào giỏ hàng",
 		"buy": "Mua ngay",
 		"cart": "Thêm vào giỏ hàng",
 		"choice": "Chọn",
 		"请选择": "Vui lòng chọn"
 	},
 	"hot": {
+		"guessYouLike": "Đoán xem bạn thích gì",
 		"recommend": "Khuyến nghị phổ biến"
 	},
+	"loading": "Đang tải tuyệt vọng ...",
 	"login": {
+		"homePage": "Trang chủ",
 		"login": "Đăng nhập",
 		"password": "mật khẩu",
+		"register": "Đăng ký",
 		"tile": "Đăng nhập",
 		"username": "Tên đăng nhập"
 	},
 	"personal": {
-		"title": "Cá nhân"
+		"all_order": "Tất cả các đơn đặt hàng",
+		"login": "Đăng nhập",
+		"logout": "Thoát ra",
+		"my-favorite": "Bộ sưu tập của tôi",
+		"non-payment": "Đang chờ thanh toán",
+		"non-received": "Biên lai chờ xử lý",
+		"register": "Đăng ký",
+		"select-language": "ngôn ngữ",
+		"title": "Cá nhân",
+		"user_level": "Cấp độ người dùng",
+		"username": "Tên đăng nhập"
+	},
+	"register": {
+		"login": "Đăng nhập",
+		"password": "mật khẩu",
+		"register": "Đăng ký",
+		"username": "Tên đăng nhập"
 	},
 	"search": {
 		"history": "Lịch sử",

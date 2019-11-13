@@ -10,22 +10,43 @@
 	},
 	"finished": "結束",
 	"goods-info-detail": {
+		"addToCart": "加入購物車",
 		"buy": "立刻購買",
 		"cart": "加入購物車",
 		"choice": "選擇",
 		"请选择": "請選擇"
 	},
 	"hot": {
+		"guessYouLike": "猜你喜歡",
 		"recommend": "熱門推薦"
 	},
+	"loading": "拼命加載中...",
 	"login": {
+		"homePage": "首頁",
 		"login": "登錄",
 		"password": "密碼",
+		"register": "註冊",
 		"tile": "登錄",
 		"username": "用戶名"
 	},
 	"personal": {
-		"title": "個人"
+		"all_order": "所有訂單",
+		"login": "登錄",
+		"logout": "登出",
+		"my-favorite": "我的收藏",
+		"non-payment": "待付款",
+		"non-received": "待收貨",
+		"register": "註冊",
+		"select-language": "語言",
+		"title": "個人",
+		"user_level": "用戶等級",
+		"username": "用戶名"
+	},
+	"register": {
+		"login": "登入",
+		"password": "密碼",
+		"register": "註冊",
+		"username": "用戶名"
 	},
 	"search": {
 		"history": "歷史記錄",
