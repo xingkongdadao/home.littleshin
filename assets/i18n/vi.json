@@ -6,7 +6,12 @@
 		"HOME": "Trang chủ"
 	},
 	"cart": {
-		"title": "Giỏ hàng"
+		"all_selected": "Chọn tất cả",
+		"color": "Màu",
+		"settlement": "Giải quyết",
+		"shopping_cart": "Giỏ hàng",
+		"size": "Kích thước",
+		"total": "Tổng cộng"
 	},
 	"finished": "Kết thúc",
 	"goods-info-detail": {

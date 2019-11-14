@@ -6,7 +6,12 @@
 		"HOME": "홈"
 	},
 	"cart": {
-		"title": "장바구니"
+		"all_selected": "모두 선택",
+		"color": "색깔",
+		"settlement": "정산",
+		"shopping_cart": "장바구니",
+		"size": "사이즈",
+		"total": "총계"
 	},
 	"finished": "끝",
 	"goods-info-detail": {

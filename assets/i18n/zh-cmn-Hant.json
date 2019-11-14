@@ -6,7 +6,12 @@
 		"HOME": "首頁"
 	},
 	"cart": {
-		"title": "購物車"
+		"all_selected": "全部選擇",
+		"color": "顏色",
+		"settlement": "結算",
+		"shopping_cart": "購物車",
+		"size": "尺寸",
+		"total": "共計"
 	},
 	"finished": "結束",
 	"goods-info-detail": {

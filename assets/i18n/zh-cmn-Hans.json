@@ -6,7 +6,12 @@
 		"HOME": "首页"
 	},
 	"cart": {
-		"title": "购物车"
+		"all_selected": "全部选择",
+		"color": "颜色",
+		"settlement": "结算",
+		"shopping_cart": "购物车",
+		"size": "尺寸",
+		"total": "共计"
 	},
 	"finished": "结束",
 	"goods-info-detail": {

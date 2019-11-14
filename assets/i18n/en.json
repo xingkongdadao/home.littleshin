@@ -6,7 +6,12 @@
 		"HOME": "Home"
 	},
 	"cart": {
-		"title": "Shopping cart"
+		"all_selected": "selecte all",
+		"color": "colour",
+		"settlement": "Settlement",
+		"shopping_cart": "Shopping cart",
+		"size": "size",
+		"total": "total"
 	},
 	"finished": "END",
 	"goods-info-detail": {

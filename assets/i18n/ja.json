@@ -6,7 +6,12 @@
 		"HOME": "ホーム"
 	},
 	"cart": {
-		"title": "ショッピングカート"
+		"all_selected": "すべて選択",
+		"color": "色",
+		"settlement": "和解",
+		"shopping_cart": "ショッピングカート",
+		"size": "サイズ",
+		"total": "合計"
 	},
 	"finished": "終了",
 	"goods-info-detail": {
