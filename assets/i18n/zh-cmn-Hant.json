@@ -6,18 +6,18 @@
 		"HOME": "首頁"
 	},
 	"cart": {
-		"all_selected": "全部選擇",
 		"color": "顏色",
 		"settlement": "結算",
 		"shopping_cart": "購物車",
 		"size": "尺寸",
+		"sku_code": "編號",
 		"total": "共計"
 	},
 	"finished": "結束",
 	"goods-info-detail": {
 		"addToCart": "加入購物車",
 		"buy": "立刻購買",
-		"cart": "加入購物車",
+		"cart": "購物車",
 		"choice": "選擇",
 		"请选择": "請選擇"
 	},

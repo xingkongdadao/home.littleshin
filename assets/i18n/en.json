@@ -6,18 +6,18 @@
 		"HOME": "Home"
 	},
 	"cart": {
-		"all_selected": "selecte all",
 		"color": "colour",
 		"settlement": "Settlement",
 		"shopping_cart": "Shopping cart",
 		"size": "size",
+		"sku_code": "Numbering",
 		"total": "total"
 	},
 	"finished": "END",
 	"goods-info-detail": {
 		"addToCart": "add to Cart",
 		"buy": "Buy",
-		"cart": "add to Shopping Cart",
+		"cart": "Shopping cart",
 		"choice": "Select",
 		"请选择": "please choose"
 	},

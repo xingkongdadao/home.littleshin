@@ -6,30 +6,30 @@
 		"HOME": "Trang chủ"
 	},
 	"cart": {
-		"all_selected": "Chọn tất cả",
-		"color": "Màu",
-		"settlement": "Giải quyết",
+		"color": "Màu sắc",
+		"settlement": "Thanh toán",
 		"shopping_cart": "Giỏ hàng",
-		"size": "Kích thước",
+		"size": "Size",
+		"sku_code": "Sở",
 		"total": "Tổng cộng"
 	},
-	"finished": "Kết thúc",
+	"finished": "Không có sản phẩm nào khác",
 	"goods-info-detail": {
 		"addToCart": "Thêm vào giỏ hàng",
 		"buy": "Mua ngay",
-		"cart": "Thêm vào giỏ hàng",
+		"cart": "Giỏ hàng",
 		"choice": "Chọn",
 		"请选择": "Vui lòng chọn"
 	},
 	"hot": {
 		"guessYouLike": "Đoán xem bạn thích gì",
-		"recommend": "Khuyến nghị phổ biến"
+		"recommend": "Gợi ý hôm nay"
 	},
-	"loading": "Đang tải tuyệt vọng ...",
+	"loading": "Đang tải...",
 	"login": {
 		"homePage": "Trang chủ",
 		"login": "Đăng nhập",
-		"password": "mật khẩu",
+		"password": "Mật khẩu",
 		"register": "Đăng ký",
 		"tile": "Đăng nhập",
 		"username": "Tên đăng nhập"
@@ -40,27 +40,27 @@
 		"logout": "Thoát ra",
 		"my-favorite": "Bộ sưu tập của tôi",
 		"non-payment": "Đang chờ thanh toán",
-		"non-received": "Biên lai chờ xử lý",
+		"non-received": "Chờ nhận hàng",
 		"register": "Đăng ký",
-		"select-language": "ngôn ngữ",
+		"select-language": "Ngôn ngữ",
 		"title": "Cá nhân",
 		"user_level": "Cấp độ người dùng",
 		"username": "Tên đăng nhập"
 	},
 	"register": {
 		"login": "Đăng nhập",
-		"password": "mật khẩu",
+		"password": "Mật khẩu",
 		"register": "Đăng ký",
 		"username": "Tên đăng nhập"
 	},
 	"search": {
-		"history": "Lịch sử",
+		"history": "Lịch sử của tôi",
 		"hotSearch": "Tìm kiếm phổ biến"
 	},
 	"tabs": {
 		"个人": "Cá nhân",
 		"热门": "Phổ biến",
-		"类别": "Thể loại",
+		"类别": "Danh mục",
 		"购物车": "Giỏ hàng"
 	},
 	"tutorial": {

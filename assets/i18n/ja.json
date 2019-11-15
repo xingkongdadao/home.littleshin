@@ -6,18 +6,18 @@
 		"HOME": "ホーム"
 	},
 	"cart": {
-		"all_selected": "すべて選択",
 		"color": "色",
 		"settlement": "和解",
 		"shopping_cart": "ショッピングカート",
 		"size": "サイズ",
+		"sku_code": "番号",
 		"total": "合計"
 	},
 	"finished": "終了",
 	"goods-info-detail": {
 		"addToCart": "カートに追加",
 		"buy": "今すぐ購入",
-		"cart": "カートに追加",
+		"cart": "ショッピングカート",
 		"choice": "選ぶ",
 		"请选择": "選択してください"
 	},

@@ -6,18 +6,18 @@
 		"HOME": "홈"
 	},
 	"cart": {
-		"all_selected": "모두 선택",
 		"color": "색깔",
 		"settlement": "정산",
 		"shopping_cart": "장바구니",
 		"size": "사이즈",
+		"sku_code": "번호",
 		"total": "총계"
 	},
 	"finished": "끝",
 	"goods-info-detail": {
 		"addToCart": "장바구니에 담기",
 		"buy": "지금 구매",
-		"cart": "장바구니에 담기",
+		"cart": "장바구니",
 		"choice": "선택",
 		"请选择": "선택하세요"
 	},
