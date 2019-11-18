@@ -6,7 +6,7 @@
 		"HOME": "Home"
 	},
 	"cart": {
-		"color": "colour",
+		"nothing": "Please add a product...",
 		"settlement": "Settlement",
 		"shopping_cart": "Shopping cart",
 		"size": "size",
@@ -21,6 +21,9 @@
 		"choice": "Select",
 		"请选择": "please choose"
 	},
+	"goods-info-detial": {
+		"info-detail": "Product details"
+	},
 	"hot": {
 		"guessYouLike": "guess you like",
 		"recommend": "Popular recommendation"
@@ -33,6 +36,17 @@
 		"register": "Register",
 		"tile": "Log In",
 		"username": "Username"
+	},
+	"order-confirm": {
+		"Attributes": "Attributes",
+		"Freight": "Freight",
+		"addShippingAddress": "Please add a shipping address",
+		"buyNow": "Buy now",
+		"buyerNotes": "Buyer message",
+		"cash-on-delivery": "Cash on Delivery",
+		"goodsAllPrice": "Total price of goods",
+		"notIncludeFreight": "Does not include shipping costs",
+		"order-confirm": "Order Confirmation"
 	},
 	"personal": {
 		"all_order": "All orders",

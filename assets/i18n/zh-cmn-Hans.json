@@ -6,7 +6,7 @@
 		"HOME": "首页"
 	},
 	"cart": {
-		"color": "颜色",
+		"nothing": "请添加商品...",
 		"settlement": "结算",
 		"shopping_cart": "购物车",
 		"size": "尺寸",
@@ -21,6 +21,9 @@
 		"choice": "选择",
 		"请选择": "请选择"
 	},
+	"goods-info-detial": {
+		"info-detail": "商品详细信息"
+	},
 	"hot": {
 		"guessYouLike": "猜你喜欢",
 		"recommend": "热门推荐"
@@ -33,6 +36,17 @@
 		"register": "注册",
 		"tile": "登录",
 		"username": "用户名"
+	},
+	"order-confirm": {
+		"Attributes": "属性",
+		"Freight": "运费",
+		"addShippingAddress": "请添加收货地址",
+		"buyNow": "立刻购买",
+		"buyerNotes": "买家留言",
+		"cash-on-delivery": "货到付款",
+		"goodsAllPrice": "商品总价",
+		"notIncludeFreight": "不包含运费",
+		"order-confirm": "订单确认"
 	},
 	"personal": {
 		"all_order": "所有订单",

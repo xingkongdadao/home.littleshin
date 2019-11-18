@@ -6,7 +6,7 @@
 		"HOME": "ホーム"
 	},
 	"cart": {
-		"color": "色",
+		"nothing": "製品を追加してください...",
 		"settlement": "和解",
 		"shopping_cart": "ショッピングカート",
 		"size": "サイズ",
@@ -21,6 +21,9 @@
 		"choice": "選ぶ",
 		"请选择": "選択してください"
 	},
+	"goods-info-detial": {
+		"info-detail": "製品の詳細"
+	},
 	"hot": {
 		"guessYouLike": "あなたが好きなものを推測する",
 		"recommend": "人気の推薦"
@@ -33,6 +36,17 @@
 		"register": "登録",
 		"tile": "ログイン",
 		"username": "ユーザー名"
+	},
+	"order-confirm": {
+		"Attributes": "属性",
+		"Freight": "貨物",
+		"addShippingAddress": "配送先住所を追加してください",
+		"buyNow": "今すぐ購入",
+		"buyerNotes": "バイヤーメッセージ",
+		"cash-on-delivery": "代金引換",
+		"goodsAllPrice": "商品の合計価格",
+		"notIncludeFreight": "送料は含まれていません",
+		"order-confirm": "注文確認"
 	},
 	"personal": {
 		"all_order": "すべての注文",

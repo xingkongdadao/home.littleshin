@@ -6,7 +6,7 @@
 		"HOME": "Trang chủ"
 	},
 	"cart": {
-		"color": "Màu sắc",
+		"nothing": "Vui lòng thêm một sản phẩm ...",
 		"settlement": "Thanh toán",
 		"shopping_cart": "Giỏ hàng",
 		"size": "Size",
@@ -21,6 +21,9 @@
 		"choice": "Chọn",
 		"请选择": "Vui lòng chọn"
 	},
+	"goods-info-detial": {
+		"info-detail": "Chi tiết sản phẩm"
+	},
 	"hot": {
 		"guessYouLike": "Đoán xem bạn thích gì",
 		"recommend": "Gợi ý hôm nay"
@@ -33,6 +36,17 @@
 		"register": "Đăng ký",
 		"tile": "Đăng nhập",
 		"username": "Tên đăng nhập"
+	},
+	"order-confirm": {
+		"Attributes": "Thuộc tính",
+		"Freight": "Vận chuyển hàng hóa",
+		"addShippingAddress": "Vui lòng thêm một địa chỉ giao hàng",
+		"buyNow": "Mua ngay",
+		"buyerNotes": "Tin nhắn của người mua",
+		"cash-on-delivery": "Tiền mặt khi giao hàng",
+		"goodsAllPrice": "Tổng giá hàng hóa",
+		"notIncludeFreight": "Không bao gồm chi phí vận chuyển",
+		"order-confirm": "Xác nhận đơn hàng"
 	},
 	"personal": {
 		"all_order": "Tất cả các đơn đặt hàng",

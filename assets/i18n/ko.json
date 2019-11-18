@@ -6,7 +6,7 @@
 		"HOME": "홈"
 	},
 	"cart": {
-		"color": "색깔",
+		"nothing": "제품을 추가하십시오 ...",
 		"settlement": "정산",
 		"shopping_cart": "장바구니",
 		"size": "사이즈",
@@ -21,6 +21,9 @@
 		"choice": "선택",
 		"请选择": "선택하세요"
 	},
+	"goods-info-detial": {
+		"info-detail": "제품 세부 사항"
+	},
 	"hot": {
 		"guessYouLike": "당신이 좋아하는 것 같아",
 		"recommend": "인기 추천"
@@ -33,6 +36,17 @@
 		"register": "등록",
 		"tile": "로그인",
 		"username": "아이디"
+	},
+	"order-confirm": {
+		"Attributes": "속성",
+		"Freight": "운임",
+		"addShippingAddress": "배송지 주소를 추가하십시오",
+		"buyNow": "지금 구매",
+		"buyerNotes": "구매자 메시지",
+		"cash-on-delivery": "대금 상환",
+		"goodsAllPrice": "상품의 총 가격",
+		"notIncludeFreight": "운송비는 포함되지 않습니다",
+		"order-confirm": "주문 확인"
 	},
 	"personal": {
 		"all_order": "모든 주문",
