@@ -5,6 +5,14 @@
 	"TABS": {
 		"HOME": "首頁"
 	},
+	"address-add": {
+		"add": "添加",
+		"addNewAddress": "新增收貨地址"
+	},
+	"address-list": {
+		"addShippingAddress": "添加送貨地址",
+		"shoppingAddress": "送貨地址"
+	},
 	"cart": {
 		"nothing": "請添加商品...",
 		"settlement": "結算",

@@ -5,6 +5,14 @@
 	"TABS": {
 		"HOME": "ホーム"
 	},
+	"address-add": {
+		"add": "追加する",
+		"addNewAddress": "配送先住所を追加"
+	},
+	"address-list": {
+		"addShippingAddress": "配送先住所を追加",
+		"shoppingAddress": "配送先住所"
+	},
 	"cart": {
 		"nothing": "製品を追加してください...",
 		"settlement": "和解",

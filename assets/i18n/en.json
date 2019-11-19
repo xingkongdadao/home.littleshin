@@ -5,6 +5,14 @@
 	"TABS": {
 		"HOME": "Home"
 	},
+	"address-add": {
+		"add": "Add to",
+		"addNewAddress": "New Shipping Address"
+	},
+	"address-list": {
+		"addShippingAddress": "Add Shipping Address",
+		"shoppingAddress": "Delivery address"
+	},
 	"cart": {
 		"nothing": "Please add a product...",
 		"settlement": "Settlement",

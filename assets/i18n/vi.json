@@ -5,6 +5,14 @@
 	"TABS": {
 		"HOME": "Trang chủ"
 	},
+	"address-add": {
+		"add": "Thêm",
+		"addNewAddress": "Thêm địa chỉ giao hàng"
+	},
+	"address-list": {
+		"addShippingAddress": "Thêm địa chỉ giao hàng",
+		"shoppingAddress": "Địa chỉ giao hàng"
+	},
 	"cart": {
 		"nothing": "Vui lòng thêm một sản phẩm ...",
 		"settlement": "Thanh toán",

@@ -5,6 +5,14 @@
 	"TABS": {
 		"HOME": "홈"
 	},
+	"address-add": {
+		"add": "추가",
+		"addNewAddress": "배송지 주소 추가"
+	},
+	"address-list": {
+		"addShippingAddress": "배송지 주소 추가",
+		"shoppingAddress": "배송지 주소"
+	},
 	"cart": {
 		"nothing": "제품을 추가하십시오 ...",
 		"settlement": "정산",
