@@ -61,7 +61,9 @@
 	},
 	"order-list": {
 		"color": "顏色",
+		"orderDate": "訂單日期",
 		"orderList": "訂單列表",
+		"order_sn": "訂單號",
 		"size": "尺寸"
 	},
 	"personal": {

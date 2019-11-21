@@ -61,7 +61,9 @@
 	},
 	"order-list": {
 		"color": "colour",
+		"orderDate": "Order date",
 		"orderList": "Order list",
+		"order_sn": "order number",
 		"size": "size"
 	},
 	"personal": {

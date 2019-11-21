@@ -61,7 +61,9 @@
 	},
 	"order-list": {
 		"color": "색깔",
+		"orderDate": "주문 날짜",
 		"orderList": "주문 목록",
+		"order_sn": "주문 번호",
 		"size": "사이즈"
 	},
 	"personal": {

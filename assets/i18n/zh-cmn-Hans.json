@@ -61,7 +61,9 @@
 	},
 	"order-list": {
 		"color": "颜色",
+		"orderDate": "订单日期",
 		"orderList": "订单列表",
+		"order_sn": "订单号",
 		"size": "尺寸"
 	},
 	"personal": {

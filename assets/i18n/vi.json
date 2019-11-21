@@ -61,7 +61,9 @@
 	},
 	"order-list": {
 		"color": "Màu",
+		"orderDate": "NGÀY ĐẶT HÀNG",
 		"orderList": "Danh sách đặt hàng",
+		"order_sn": "Số ĐẶT HÀNG",
 		"size": "Kích thước"
 	},
 	"personal": {
