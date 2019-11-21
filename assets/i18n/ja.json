@@ -14,7 +14,9 @@
 		"shoppingAddress": "配送先住所"
 	},
 	"cart": {
+		"color": "",
 		"nothing": "製品を追加してください...",
+		"price": "",
 		"settlement": "和解",
 		"shopping_cart": "ショッピングカート",
 		"size": "サイズ",
@@ -54,7 +56,13 @@
 		"cash-on-delivery": "代金引換",
 		"goodsAllPrice": "商品の合計価格",
 		"notIncludeFreight": "送料は含まれていません",
-		"order-confirm": "注文確認"
+		"order-confirm": "注文確認",
+		"size": ""
+	},
+	"order-list": {
+		"color": "色",
+		"orderList": "注文リスト",
+		"size": "サイズ"
 	},
 	"personal": {
 		"all_order": "すべての注文",

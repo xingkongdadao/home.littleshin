@@ -14,7 +14,9 @@
 		"shoppingAddress": "Delivery address"
 	},
 	"cart": {
+		"color": "",
 		"nothing": "Please add a product...",
+		"price": "",
 		"settlement": "Settlement",
 		"shopping_cart": "Shopping cart",
 		"size": "size",
@@ -54,7 +56,13 @@
 		"cash-on-delivery": "Cash on Delivery",
 		"goodsAllPrice": "Total price of goods",
 		"notIncludeFreight": "Does not include shipping costs",
-		"order-confirm": "Order Confirmation"
+		"order-confirm": "Order Confirmation",
+		"size": ""
+	},
+	"order-list": {
+		"color": "colour",
+		"orderList": "Order list",
+		"size": "size"
 	},
 	"personal": {
 		"all_order": "All orders",

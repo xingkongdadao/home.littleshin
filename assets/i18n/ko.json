@@ -14,7 +14,9 @@
 		"shoppingAddress": "배송지 주소"
 	},
 	"cart": {
+		"color": "",
 		"nothing": "제품을 추가하십시오 ...",
+		"price": "",
 		"settlement": "정산",
 		"shopping_cart": "장바구니",
 		"size": "사이즈",
@@ -54,7 +56,13 @@
 		"cash-on-delivery": "대금 상환",
 		"goodsAllPrice": "상품의 총 가격",
 		"notIncludeFreight": "운송비는 포함되지 않습니다",
-		"order-confirm": "주문 확인"
+		"order-confirm": "주문 확인",
+		"size": ""
+	},
+	"order-list": {
+		"color": "색깔",
+		"orderList": "주문 목록",
+		"size": "사이즈"
 	},
 	"personal": {
 		"all_order": "모든 주문",

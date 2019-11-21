@@ -14,7 +14,9 @@
 		"shoppingAddress": "Địa chỉ giao hàng"
 	},
 	"cart": {
+		"color": "",
 		"nothing": "Vui lòng thêm một sản phẩm ...",
+		"price": "",
 		"settlement": "Thanh toán",
 		"shopping_cart": "Giỏ hàng",
 		"size": "Size",
@@ -54,7 +56,13 @@
 		"cash-on-delivery": "Tiền mặt khi giao hàng",
 		"goodsAllPrice": "Tổng giá hàng hóa",
 		"notIncludeFreight": "Không bao gồm chi phí vận chuyển",
-		"order-confirm": "Xác nhận đơn hàng"
+		"order-confirm": "Xác nhận đơn hàng",
+		"size": ""
+	},
+	"order-list": {
+		"color": "Màu",
+		"orderList": "Danh sách đặt hàng",
+		"size": "Kích thước"
 	},
 	"personal": {
 		"all_order": "Tất cả các đơn đặt hàng",
