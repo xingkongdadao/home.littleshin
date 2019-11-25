@@ -1,22 +1,20 @@
 {
-	"HOME": {
-		"TIPS": "多語言切換案例"
-	},
-	"TABS": {
-		"HOME": "首頁"
-	},
 	"address-add": {
 		"add": "添加",
-		"addNewAddress": "新增收貨地址"
+		"addNewAddress": "新增收貨地址",
+		"inputAddress": "請輸入收貨地址",
+		"inputSigner": "請輸入收貨人姓名",
+		"inputSignerMobile": "請輸入收件人聯繫方式",
+		"inputUserAddress": "請輸入收件人信息"
 	},
 	"address-list": {
 		"addShippingAddress": "添加送貨地址",
 		"shoppingAddress": "送貨地址"
 	},
 	"cart": {
-		"color": "",
+		"color": "顏色",
 		"nothing": "請添加商品...",
-		"price": "",
+		"price": "價格",
 		"settlement": "結算",
 		"shopping_cart": "購物車",
 		"size": "尺寸",
@@ -40,11 +38,13 @@
 	},
 	"loading": "拼命加載中...",
 	"login": {
-		"homePage": "首頁",
+		"inputPassword": "請輸入賬戶密碼",
+		"inputUsername": "請輸入賬戶用戶名",
 		"login": "登錄",
 		"password": "密碼",
 		"register": "註冊",
 		"tile": "登錄",
+		"userOrPasswordNotRight": "用戶名或密碼錯誤",
 		"username": "用戶名"
 	},
 	"order-confirm": {
@@ -57,14 +57,16 @@
 		"goodsAllPrice": "商品總價",
 		"notIncludeFreight": "不包含運費",
 		"order-confirm": "訂單確認",
-		"size": ""
+		"size": "尺寸"
 	},
 	"order-list": {
 		"color": "顏色",
+		"noFreight": "不包含運費",
 		"orderDate": "訂單日期",
 		"orderList": "訂單列表",
 		"order_sn": "訂單號",
-		"size": "尺寸"
+		"size": "尺寸",
+		"totalPrice": "總價"
 	},
 	"personal": {
 		"all_order": "所有訂單",
@@ -80,6 +82,11 @@
 		"username": "用戶名"
 	},
 	"register": {
+		"PasswordInconsistent": "兩次密碼不一致",
+		"createUserSuccess": "創建用戶成功",
+		"inputPassword": "請輸入密碼",
+		"inputPasswordAgain": "請再次輸入密碼",
+		"inputUsername": "請輸入用戶名",
 		"login": "登入",
 		"password": "密碼",
 		"register": "註冊",

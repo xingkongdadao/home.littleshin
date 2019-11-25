@@ -1,22 +1,20 @@
 {
-	"HOME": {
-		"TIPS": "Trường hợp chuyển đổi đa ngôn ngữ"
-	},
-	"TABS": {
-		"HOME": "Trang chủ"
-	},
 	"address-add": {
 		"add": "Thêm",
-		"addNewAddress": "Thêm địa chỉ giao hàng"
+		"addNewAddress": "Thêm địa chỉ giao hàng",
+		"inputAddress": "Vui lòng nhập địa chỉ giao hàng",
+		"inputSigner": "Vui lòng nhập tên người nhận hàng",
+		"inputSignerMobile": "Vui lòng nhập thông tin liên lạc của người nhận",
+		"inputUserAddress": "Vui lòng nhập thông tin người nhận"
 	},
 	"address-list": {
 		"addShippingAddress": "Thêm địa chỉ giao hàng",
 		"shoppingAddress": "Địa chỉ giao hàng"
 	},
 	"cart": {
-		"color": "",
+		"color": "Màu",
 		"nothing": "Vui lòng thêm một sản phẩm ...",
-		"price": "",
+		"price": "Giá",
 		"settlement": "Thanh toán",
 		"shopping_cart": "Giỏ hàng",
 		"size": "Size",
@@ -40,11 +38,13 @@
 	},
 	"loading": "Đang tải...",
 	"login": {
-		"homePage": "Trang chủ",
+		"inputPassword": "Vui lòng nhập mật khẩu tài khoản",
+		"inputUsername": "Vui lòng nhập tên tài khoản",
 		"login": "Đăng nhập",
 		"password": "Mật khẩu",
 		"register": "Đăng ký",
 		"tile": "Đăng nhập",
+		"userOrPasswordNotRight": "Tên đăng nhập hoặc mật khẩu không chính xác",
 		"username": "Tên đăng nhập"
 	},
 	"order-confirm": {
@@ -57,14 +57,16 @@
 		"goodsAllPrice": "Tổng giá hàng hóa",
 		"notIncludeFreight": "Không bao gồm chi phí vận chuyển",
 		"order-confirm": "Xác nhận đơn hàng",
-		"size": ""
+		"size": "Kích thước"
 	},
 	"order-list": {
 		"color": "Màu",
+		"noFreight": "Không bao gồm chi phí vận chuyển",
 		"orderDate": "NGÀY ĐẶT HÀNG",
 		"orderList": "Danh sách đặt hàng",
 		"order_sn": "Số ĐẶT HÀNG",
-		"size": "Kích thước"
+		"size": "Kích thước",
+		"totalPrice": "TỔNG GIÁ"
 	},
 	"personal": {
 		"all_order": "Tất cả các đơn đặt hàng",
@@ -80,6 +82,11 @@
 		"username": "Tên đăng nhập"
 	},
 	"register": {
+		"PasswordInconsistent": "Hai mật khẩu không nhất quán",
+		"createUserSuccess": "Tạo thành công cho người dùng",
+		"inputPassword": "Vui lòng nhập mật khẩu của bạn",
+		"inputPasswordAgain": "Vui lòng nhập lại mật khẩu của bạn",
+		"inputUsername": "Vui lòng nhập tên người dùng",
 		"login": "Đăng nhập",
 		"password": "Mật khẩu",
 		"register": "Đăng ký",

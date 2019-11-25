@@ -1,22 +1,20 @@
 {
-	"HOME": {
-		"TIPS": "多语言切换案例"
-	},
-	"TABS": {
-		"HOME": "首页"
-	},
 	"address-add": {
 		"add": "添加",
-		"addNewAddress": "新增收货地址"
+		"addNewAddress": "新增收货地址",
+		"inputAddress": "请输入收货地址",
+		"inputSigner": "请输入收货人姓名",
+		"inputSignerMobile": "请输入收件人联系方式",
+		"inputUserAddress": "请输入收件人信息"
 	},
 	"address-list": {
 		"addShippingAddress": "添加送货地址",
 		"shoppingAddress": "送货地址"
 	},
 	"cart": {
-		"color": "",
+		"color": "颜色",
 		"nothing": "请添加商品...",
-		"price": "",
+		"price": "价格",
 		"settlement": "结算",
 		"shopping_cart": "购物车",
 		"size": "尺寸",
@@ -40,11 +38,13 @@
 	},
 	"loading": "拼命加载中...",
 	"login": {
-		"homePage": "首页",
+		"inputPassword": "请输入账户密码",
+		"inputUsername": "请输入账户用户名",
 		"login": "登录",
 		"password": "密码",
 		"register": "注册",
 		"tile": "登录",
+		"userOrPasswordNotRight": "用户名或密码错误",
 		"username": "用户名"
 	},
 	"order-confirm": {
@@ -57,14 +57,16 @@
 		"goodsAllPrice": "商品总价",
 		"notIncludeFreight": "不包含运费",
 		"order-confirm": "订单确认",
-		"size": ""
+		"size": "尺寸"
 	},
 	"order-list": {
 		"color": "颜色",
+		"noFreight": "不包含运费",
 		"orderDate": "订单日期",
 		"orderList": "订单列表",
 		"order_sn": "订单号",
-		"size": "尺寸"
+		"size": "尺寸",
+		"totalPrice": "总价"
 	},
 	"personal": {
 		"all_order": "所有订单",
@@ -80,6 +82,11 @@
 		"username": "用户名"
 	},
 	"register": {
+		"PasswordInconsistent": "两次密码输入不一致",
+		"createUserSuccess": "创建用户成功",
+		"inputPassword": "请输入密码",
+		"inputPasswordAgain": "请再次输入密码",
+		"inputUsername": "请输入用户名",
 		"login": "登录",
 		"password": "密码",
 		"register": "注册",

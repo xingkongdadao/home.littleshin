@@ -1,22 +1,20 @@
 {
-	"HOME": {
-		"TIPS": "다국어 전환 사례"
-	},
-	"TABS": {
-		"HOME": "홈"
-	},
 	"address-add": {
 		"add": "추가",
-		"addNewAddress": "배송지 주소 추가"
+		"addNewAddress": "배송지 주소 추가",
+		"inputAddress": "배송지 주소를 입력하십시오",
+		"inputSigner": "수취인 이름을 입력하십시오",
+		"inputSignerMobile": "수신자 연락처 정보를 입력하십시오",
+		"inputUserAddress": "수신자 정보를 입력하십시오"
 	},
 	"address-list": {
 		"addShippingAddress": "배송지 주소 추가",
 		"shoppingAddress": "배송지 주소"
 	},
 	"cart": {
-		"color": "",
+		"color": "색깔",
 		"nothing": "제품을 추가하십시오 ...",
-		"price": "",
+		"price": "가격",
 		"settlement": "정산",
 		"shopping_cart": "장바구니",
 		"size": "사이즈",
@@ -40,11 +38,13 @@
 	},
 	"loading": "필사적으로로드 중 ...",
 	"login": {
-		"homePage": "홈",
+		"inputPassword": "계정 비밀번호를 입력하십시오",
+		"inputUsername": "계정 사용자 이름을 입력하십시오",
 		"login": "로그인",
 		"password": "비밀번호",
 		"register": "등록",
 		"tile": "로그인",
+		"userOrPasswordNotRight": "사용자 이름 또는 비밀번호가 잘못되었습니다",
 		"username": "아이디"
 	},
 	"order-confirm": {
@@ -57,14 +57,16 @@
 		"goodsAllPrice": "상품의 총 가격",
 		"notIncludeFreight": "운송비는 포함되지 않습니다",
 		"order-confirm": "주문 확인",
-		"size": ""
+		"size": "사이즈"
 	},
 	"order-list": {
 		"color": "색깔",
+		"noFreight": "운송비는 포함되지 않습니다",
 		"orderDate": "주문 날짜",
 		"orderList": "주문 목록",
 		"order_sn": "주문 번호",
-		"size": "사이즈"
+		"size": "사이즈",
+		"totalPrice": "총 가격"
 	},
 	"personal": {
 		"all_order": "모든 주문",
@@ -80,6 +82,11 @@
 		"username": "아이디"
 	},
 	"register": {
+		"PasswordInconsistent": "두 개의 암호가 일치하지 않습니다",
+		"createUserSuccess": "사용자 성공 창출",
+		"inputPassword": "비밀번호를 입력하십시오",
+		"inputPasswordAgain": "비밀번호를 다시 입력하십시오",
+		"inputUsername": "사용자 이름을 입력하십시오",
 		"login": "로그인",
 		"password": "비밀번호",
 		"register": "등록",

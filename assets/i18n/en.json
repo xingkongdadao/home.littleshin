@@ -1,22 +1,20 @@
 {
-	"HOME": {
-		"TIPS": "Multilingual Case"
-	},
-	"TABS": {
-		"HOME": "Home"
-	},
 	"address-add": {
 		"add": "Add to",
-		"addNewAddress": "New Shipping Address"
+		"addNewAddress": "New Shipping Address",
+		"inputAddress": "Please enter the shipping address",
+		"inputSigner": "Please enter the consignee name",
+		"inputSignerMobile": "Please enter the recipient contact information",
+		"inputUserAddress": "Please enter recipient information"
 	},
 	"address-list": {
 		"addShippingAddress": "Add Shipping Address",
 		"shoppingAddress": "Delivery address"
 	},
 	"cart": {
-		"color": "",
+		"color": "colour",
 		"nothing": "Please add a product...",
-		"price": "",
+		"price": "Price",
 		"settlement": "Settlement",
 		"shopping_cart": "Shopping cart",
 		"size": "size",
@@ -40,11 +38,13 @@
 	},
 	"loading": "Desperately loading...",
 	"login": {
-		"homePage": "Home",
+		"inputPassword": "Please enter the account password",
+		"inputUsername": "Please enter the account username",
 		"login": "Log In",
 		"password": "Password",
 		"register": "Register",
 		"tile": "Log In",
+		"userOrPasswordNotRight": "wrong user name or password",
 		"username": "Username"
 	},
 	"order-confirm": {
@@ -57,14 +57,16 @@
 		"goodsAllPrice": "Total price of goods",
 		"notIncludeFreight": "Does not include shipping costs",
 		"order-confirm": "Order Confirmation",
-		"size": ""
+		"size": "size"
 	},
 	"order-list": {
 		"color": "colour",
+		"noFreight": "Does not include shipping costs",
 		"orderDate": "Order date",
 		"orderList": "Order list",
 		"order_sn": "order number",
-		"size": "size"
+		"size": "size",
+		"totalPrice": "Total price"
 	},
 	"personal": {
 		"all_order": "All orders",
@@ -80,6 +82,11 @@
 		"username": "Username"
 	},
 	"register": {
+		"PasswordInconsistent": "Two passwords are inconsistent",
+		"createUserSuccess": "Create user success",
+		"inputPassword": "Please enter your password",
+		"inputPasswordAgain": "Please enter your password again",
+		"inputUsername": "please enter user name",
 		"login": "sign in",
 		"password": "Password",
 		"register": "Registered",
