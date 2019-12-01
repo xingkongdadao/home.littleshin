@@ -19,6 +19,25 @@
 		"addShippingAddress": "배송지 주소 추가",
 		"shoppingAddress": "배송지 주소"
 	},
+	"admin-category-add": {
+		"add": "추가",
+		"addFailed": "추가 실패",
+		"addSuccess": "성공적으로 추가되었습니다",
+		"cancel": "취소",
+		"classify": "카테고리",
+		"code": "인코딩",
+		"desc": "설명",
+		"level_one": "첫 번째 수준",
+		"level_three": "3 학년",
+		"level_two": "이차",
+		"name": "중국 이름",
+		"name_vn": "베트남어 이름",
+		"parent_category": "학부모 수업",
+		"picture": "클릭하여 사진을 선택하십시오",
+		"router": "탐색",
+		"select": "선택",
+		"select_one": "하나를 선택하십시오"
+	},
 	"admin-category-list": {
 		"title": "제품 카테고리 목록"
 	},
@@ -29,7 +48,6 @@
 		"settlement": "정산",
 		"shopping_cart": "장바구니",
 		"size": "사이즈",
-		"sku_code": "번호",
 		"total": "총계"
 	},
 	"finished": "끝",

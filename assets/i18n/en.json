@@ -19,6 +19,25 @@
 		"addShippingAddress": "Add Shipping Address",
 		"shoppingAddress": "Delivery address"
 	},
+	"admin-category-add": {
+		"add": "Add to",
+		"addFailed": "add failed",
+		"addSuccess": "Added successfully",
+		"cancel": "Cancel",
+		"classify": "Classification",
+		"code": "coding",
+		"desc": "Description",
+		"level_one": "First level",
+		"level_three": "Third grade",
+		"level_two": "Secondary",
+		"name": "Chinese name",
+		"name_vn": "Vietnamese name",
+		"parent_category": "Father",
+		"picture": "Click to select photo",
+		"router": "Navigation",
+		"select": "Select",
+		"select_one": "Please select one"
+	},
 	"admin-category-list": {
 		"title": "Product Category List"
 	},
@@ -29,7 +48,6 @@
 		"settlement": "Settlement",
 		"shopping_cart": "Shopping cart",
 		"size": "size",
-		"sku_code": "Numbering",
 		"total": "total"
 	},
 	"finished": "END",

@@ -19,6 +19,25 @@
 		"addShippingAddress": "Thêm địa chỉ giao hàng",
 		"shoppingAddress": "Địa chỉ giao hàng"
 	},
+	"admin-category-add": {
+		"add": "Thêm",
+		"addFailed": "Thêm thất bại",
+		"addSuccess": "Đã thêm thành công",
+		"cancel": "Hủy bỏ",
+		"classify": "Phân loại",
+		"code": "Mã hóa",
+		"desc": "Mô tả",
+		"level_one": "Cấp độ đầu tiên",
+		"level_three": "cấp ba",
+		"level_two": "cấp hai",
+		"name": "Tên tiếng trung",
+		"name_vn": "Tên tiếng việt",
+		"parent_category": "Lớp phụ huynh",
+		"picture": "Nhấn vào đây để chọn ảnh",
+		"router": "Điều hướng",
+		"select": "Chọn",
+		"select_one": "Vui lòng chọn một"
+	},
 	"admin-category-list": {
 		"title": "danh mục loại sản phẩm"
 	},
@@ -29,7 +48,6 @@
 		"settlement": "Thanh toán",
 		"shopping_cart": "Giỏ hàng",
 		"size": "Size",
-		"sku_code": "số",
 		"total": "Tổng cộng"
 	},
 	"finished": "Không có sản phẩm nào khác",

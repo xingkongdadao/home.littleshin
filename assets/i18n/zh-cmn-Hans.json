@@ -19,6 +19,25 @@
 		"addShippingAddress": "添加送货地址",
 		"shoppingAddress": "送货地址"
 	},
+	"admin-category-add": {
+		"add": "添加",
+		"addFailed": "添加失败",
+		"addSuccess": "添加成功",
+		"cancel": "取消",
+		"classify": "分类",
+		"code": "编码",
+		"desc": "描述",
+		"level_one": "一级",
+		"level_three": "三级",
+		"level_two": "二级",
+		"name": "中文名称",
+		"name_vn": "越南语名称",
+		"parent_category": "父类",
+		"picture": "点击选择照片",
+		"router": "导航",
+		"select": "选择",
+		"select_one": "请选择一项"
+	},
 	"admin-category-list": {
 		"title": "商品类别列表"
 	},
@@ -29,7 +48,6 @@
 		"settlement": "结算",
 		"shopping_cart": "购物车",
 		"size": "尺寸",
-		"sku_code": "编号",
 		"total": "共计"
 	},
 	"finished": "结束",
