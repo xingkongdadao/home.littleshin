@@ -1,4 +1,12 @@
 {
+	"about": {
+		"address": "Địa chỉ liên lạc",
+		"mobile": "Số điện thoại",
+		"name": "Người liên hệ",
+		"siteInfo": "Thông tin trang web",
+		"trung": "Trung Quốc",
+		"viet": "Tiếng việt nam"
+	},
 	"address-add": {
 		"add": "Thêm",
 		"addNewAddress": "Thêm địa chỉ giao hàng",
@@ -11,6 +19,9 @@
 		"addShippingAddress": "Thêm địa chỉ giao hàng",
 		"shoppingAddress": "Địa chỉ giao hàng"
 	},
+	"admin-category-list": {
+		"title": "danh mục loại sản phẩm"
+	},
 	"cart": {
 		"color": "Màu",
 		"nothing": "Vui lòng thêm một sản phẩm ...",
@@ -18,22 +29,25 @@
 		"settlement": "Thanh toán",
 		"shopping_cart": "Giỏ hàng",
 		"size": "Size",
-		"sku_code": "Sở",
+		"sku_code": "số",
 		"total": "Tổng cộng"
 	},
 	"finished": "Không có sản phẩm nào khác",
 	"goods-info-detail": {
 		"addToCart": "Thêm vào giỏ hàng",
+		"addToCartSuccess": "Đã thêm thành công",
 		"buy": "Mua ngay",
 		"cart": "Giỏ hàng",
-		"choice": "Chọn",
-		"请选择": "Vui lòng chọn"
-	},
-	"goods-info-detial": {
-		"info-detail": "Chi tiết sản phẩm"
+		"info-detail": "Chi tiết sản phẩm",
+		"pleaseLogin": "Vui lòng đăng nhập",
+		"pleaseSelect": "Vui lòng chọn",
+		"selectColorSize": "Màu sắc và kích thước sản phẩm"
 	},
 	"hot": {
 		"guessYouLike": "Đoán xem bạn thích gì",
+		"loginSeePrice": "Kiểm tra giá sau khi đăng nhập",
+		"price-sell-advise": "Giá bán đề xuất",
+		"price-wholesale": "Giá sỉ",
 		"recommend": "Gợi ý hôm nay"
 	},
 	"loading": "Đang tải...",
@@ -57,18 +71,41 @@
 		"goodsAllPrice": "Tổng giá hàng hóa",
 		"notIncludeFreight": "Không bao gồm chi phí vận chuyển",
 		"order-confirm": "Xác nhận đơn hàng",
+		"payment-method": "Phương thức thanh toán",
+		"selectUserAddress": "Vui lòng chọn một địa chỉ giao hàng",
 		"size": "Kích thước"
+	},
+	"order-detail": {
+		"address": "Địa chỉ giao hàng",
+		"color": "Màu",
+		"goodsSkuInfo": "Thông tin sản phẩm",
+		"logisticInfo": "Thông tin hậu cần",
+		"orderDate": "NGÀY ĐẶT HÀNG",
+		"orderDetail": "Chi tiết đặt hàng",
+		"order_sn": "Số thứ tự",
+		"sellerAddress": "Địa chỉ người bán",
+		"sellerInfo": "Thông tin người bán",
+		"sellerMobile": "Thông tin liên lạc",
+		"sellerName": "Người gửi hàng",
+		"signer": "Người nhận hàng",
+		"singerInfo": "Thông tin người mua",
+		"singerMobile": "Điện thoại người mua",
+		"size": "Kích thước",
+		"totalPrice": "TỔNG GIÁ"
 	},
 	"order-list": {
 		"color": "Màu",
+		"contactSeller": "Liên hệ với người bán",
 		"noFreight": "Không bao gồm chi phí vận chuyển",
 		"orderDate": "NGÀY ĐẶT HÀNG",
 		"orderList": "Danh sách đặt hàng",
-		"order_sn": "Số ĐẶT HÀNG",
+		"order_sn": "ID Đơn Hàng",
 		"size": "Kích thước",
 		"totalPrice": "TỔNG GIÁ"
 	},
 	"personal": {
+		"about": "Về trang web này",
+		"admin": "quản lý",
 		"all_order": "Tất cả các đơn đặt hàng",
 		"login": "Đăng nhập",
 		"logout": "Thoát ra",
@@ -84,11 +121,16 @@
 	"register": {
 		"PasswordInconsistent": "Hai mật khẩu không nhất quán",
 		"createUserSuccess": "Tạo thành công cho người dùng",
+		"inputMobile": "Vui lòng nhập số điện thoại của bạn",
+		"inputNickName": "Vui lòng nhập tên hiệu",
 		"inputPassword": "Vui lòng nhập mật khẩu của bạn",
 		"inputPasswordAgain": "Vui lòng nhập lại mật khẩu của bạn",
 		"inputUsername": "Vui lòng nhập tên người dùng",
 		"login": "Đăng nhập",
+		"mobile": "Điện thoại",
+		"nickName": "Biệt danh",
 		"password": "Mật khẩu",
+		"passwordConfirm": "Xác nhận mật khẩu",
 		"register": "Đăng ký",
 		"username": "Tên đăng nhập"
 	},

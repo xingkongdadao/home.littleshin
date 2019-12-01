@@ -1,4 +1,12 @@
 {
+	"about": {
+		"address": "연락 주소",
+		"mobile": "전화 번호",
+		"name": "담당자",
+		"siteInfo": "웹 사이트 정보",
+		"trung": "중국어",
+		"viet": "베트남어"
+	},
 	"address-add": {
 		"add": "추가",
 		"addNewAddress": "배송지 주소 추가",
@@ -10,6 +18,9 @@
 	"address-list": {
 		"addShippingAddress": "배송지 주소 추가",
 		"shoppingAddress": "배송지 주소"
+	},
+	"admin-category-list": {
+		"title": "제품 카테고리 목록"
 	},
 	"cart": {
 		"color": "색깔",
@@ -24,16 +35,19 @@
 	"finished": "끝",
 	"goods-info-detail": {
 		"addToCart": "장바구니에 담기",
+		"addToCartSuccess": "성공적으로 추가되었습니다",
 		"buy": "지금 구매",
 		"cart": "장바구니",
-		"choice": "선택",
-		"请选择": "선택하세요"
-	},
-	"goods-info-detial": {
-		"info-detail": "제품 세부 사항"
+		"info-detail": "제품 세부 사항",
+		"pleaseLogin": "로그인하십시오",
+		"pleaseSelect": "선택하세요",
+		"selectColorSize": "제품 색상 및 크기"
 	},
 	"hot": {
 		"guessYouLike": "당신이 좋아하는 것 같아",
+		"loginSeePrice": "로그인 후 가격 확인",
+		"price-sell-advise": "권장 판매 가격",
+		"price-wholesale": "도매가",
 		"recommend": "인기 추천"
 	},
 	"loading": "필사적으로로드 중 ...",
@@ -57,10 +71,31 @@
 		"goodsAllPrice": "상품의 총 가격",
 		"notIncludeFreight": "운송비는 포함되지 않습니다",
 		"order-confirm": "주문 확인",
+		"payment-method": "결제 방법",
+		"selectUserAddress": "배송지 주소를 선택하십시오",
 		"size": "사이즈"
+	},
+	"order-detail": {
+		"address": "배송지 주소",
+		"color": "색깔",
+		"goodsSkuInfo": "제품 정보",
+		"logisticInfo": "물류 정보",
+		"orderDate": "주문 날짜",
+		"orderDetail": "주문 정보",
+		"order_sn": "주문 번호",
+		"sellerAddress": "판매자 주소",
+		"sellerInfo": "판매자 정보",
+		"sellerMobile": "연락 정보",
+		"sellerName": "위탁자",
+		"signer": "수탁자",
+		"singerInfo": "구매자 정보",
+		"singerMobile": "구매자 전화",
+		"size": "사이즈",
+		"totalPrice": "총 가격"
 	},
 	"order-list": {
 		"color": "색깔",
+		"contactSeller": "판매자에게 문의",
 		"noFreight": "운송비는 포함되지 않습니다",
 		"orderDate": "주문 날짜",
 		"orderList": "주문 목록",
@@ -69,6 +104,8 @@
 		"totalPrice": "총 가격"
 	},
 	"personal": {
+		"about": "이 사이트에 대하여",
+		"admin": "",
 		"all_order": "모든 주문",
 		"login": "로그인",
 		"logout": "로그 아웃",
@@ -84,11 +121,16 @@
 	"register": {
 		"PasswordInconsistent": "두 개의 암호가 일치하지 않습니다",
 		"createUserSuccess": "사용자 성공 창출",
+		"inputMobile": "전화 번호를 입력하십시오",
+		"inputNickName": "닉네임을 입력하십시오",
 		"inputPassword": "비밀번호를 입력하십시오",
 		"inputPasswordAgain": "비밀번호를 다시 입력하십시오",
 		"inputUsername": "사용자 이름을 입력하십시오",
 		"login": "로그인",
+		"mobile": "전화",
+		"nickName": "닉네임",
 		"password": "비밀번호",
+		"passwordConfirm": "비밀번호 확인",
 		"register": "등록",
 		"username": "아이디"
 	},
