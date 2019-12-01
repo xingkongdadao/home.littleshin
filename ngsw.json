@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1575187352253,
+  "timestamp": 1575191985061,
   "index": "http://littleshin.com/index.html",
   "assetGroups": [
     {
@@ -710,7 +710,7 @@
     "http://littleshin.com/common-es2015.efeac32fae8c99de8c28.js": "13bdb10b54f01af888b7ecb9b4645a4e53932bd3",
     "http://littleshin.com/common-es5.fc8d13557610423a4b52.js": "1ab2df153876aed2d239e33aff770117abbb2c33",
     "http://littleshin.com/icon_loading.7a1ee6db87af65e71ab1.png": "96ea33765d06ee63a208f7cdcbb434164019b148",
-    "http://littleshin.com/index.html": "07dd3dc62c91db6e3a3b5b5ed5228c0bd0656d53",
+    "http://littleshin.com/index.html": "0c4657e1f15d3916331f8f172cfbde0faa8d1232",
     "http://littleshin.com/main-es2015.9589c8181376db229125.js": "39b611289d15ded1ae45608919debc6b97aa3949",
     "http://littleshin.com/main-es5.55401164c43cff9ed11b.js": "24f0bf17e431cf113077394fabce7a4cea75c100",
     "http://littleshin.com/polyfills-es2015.c734d0ab89776e22a1b5.js": "9579e6de134253c8affceecee5241d4cf40b8931",
