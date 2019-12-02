@@ -24,6 +24,7 @@
 		"addFailed": "添加失敗",
 		"addSuccess": "添加成功",
 		"cancel": "取消",
+		"category-add": "添加商品類別",
 		"classify": "分類",
 		"code": "編碼",
 		"desc": "描述",
@@ -38,7 +39,18 @@
 		"select": "選擇",
 		"select_one": "請選擇一項"
 	},
+	"admin-category-edit": {
+		"category-edit": "商品類別修改",
+		"edit": "修改",
+		"editFailed": "修改失敗",
+		"editPictureSuccess": "修改照片成功",
+		"editSuccess": "修改成功"
+	},
 	"admin-category-list": {
+		"cancel": "取消",
+		"delete": "刪除",
+		"deleteSuccess": "刪除成功",
+		"edit": "編輯",
 		"title": "商品類別列表"
 	},
 	"cart": {

@@ -24,6 +24,7 @@
 		"addFailed": "추가 실패",
 		"addSuccess": "성공적으로 추가되었습니다",
 		"cancel": "취소",
+		"category-add": "제품 카테고리 추가",
 		"classify": "카테고리",
 		"code": "인코딩",
 		"desc": "설명",
@@ -38,7 +39,18 @@
 		"select": "선택",
 		"select_one": "하나를 선택하십시오"
 	},
+	"admin-category-edit": {
+		"category-edit": "제품 카테고리 수정",
+		"edit": "수정",
+		"editFailed": "편집 실패",
+		"editPictureSuccess": "사진을 성공적으로 편집",
+		"editSuccess": "성공적으로 수정되었습니다"
+	},
 	"admin-category-list": {
+		"cancel": "취소",
+		"delete": "삭제",
+		"deleteSuccess": "성공적으로 삭제되었습니다",
+		"edit": "편집",
 		"title": "제품 카테고리 목록"
 	},
 	"cart": {

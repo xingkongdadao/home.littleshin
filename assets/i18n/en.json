@@ -24,6 +24,7 @@
 		"addFailed": "add failed",
 		"addSuccess": "Added successfully",
 		"cancel": "Cancel",
+		"category-add": "Add Product Category",
 		"classify": "Classification",
 		"code": "coding",
 		"desc": "Description",
@@ -38,7 +39,18 @@
 		"select": "Select",
 		"select_one": "Please select one"
 	},
+	"admin-category-edit": {
+		"category-edit": "Product category modification",
+		"edit": "modify",
+		"editFailed": "fail to edit",
+		"editPictureSuccess": "Edit photo successfully",
+		"editSuccess": "Successfully modified"
+	},
 	"admin-category-list": {
+		"cancel": "Cancel",
+		"delete": "Delete",
+		"deleteSuccess": "Successfully deleted",
+		"edit": "EDIT",
 		"title": "Product Category List"
 	},
 	"cart": {

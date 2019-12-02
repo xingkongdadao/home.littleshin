@@ -24,6 +24,7 @@
 		"addFailed": "Thêm thất bại",
 		"addSuccess": "Đã thêm thành công",
 		"cancel": "Hủy bỏ",
+		"category-add": "Thêm danh mục sản phẩm",
 		"classify": "Phân loại",
 		"code": "Mã hóa",
 		"desc": "Mô tả",
@@ -38,7 +39,18 @@
 		"select": "Chọn",
 		"select_one": "Vui lòng chọn một"
 	},
+	"admin-category-edit": {
+		"category-edit": "Sửa đổi danh mục sản phẩm",
+		"edit": "Sửa đổi",
+		"editFailed": "Chỉnh sửa thất bại",
+		"editPictureSuccess": "Chỉnh sửa ảnh thành công",
+		"editSuccess": "Đã sửa đổi thành công"
+	},
 	"admin-category-list": {
+		"cancel": "Hủy bỏ",
+		"delete": "Xóa",
+		"deleteSuccess": "Đã xóa thành công",
+		"edit": "chỉnh sửa",
 		"title": "danh mục loại sản phẩm"
 	},
 	"cart": {
