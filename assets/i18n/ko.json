@@ -19,6 +19,16 @@
 		"addShippingAddress": "배송지 주소 추가",
 		"shoppingAddress": "배송지 주소"
 	},
+	"admin": {
+		"dashboard": "패널",
+		"goods-category-list": "제품 카테고리 목록",
+		"goods-in-list": "상품 보관 목록",
+		"goods-info-list": "제품 정보 목록",
+		"goods-out-list": "제품 아웃 바운드 목록",
+		"goods-sku-list": "제품 SKU 목록",
+		"personal": "개인 센터",
+		"shop-list": "점포리스트"
+	},
 	"admin-category-add": {
 		"add": "추가",
 		"addFailed": "추가 실패",
@@ -28,6 +38,7 @@
 		"classify": "카테고리",
 		"code": "인코딩",
 		"desc": "설명",
+		"has_entity": "",
 		"level_one": "첫 번째 수준",
 		"level_three": "3 학년",
 		"level_two": "이차",
@@ -52,6 +63,22 @@
 		"deleteSuccess": "성공적으로 삭제되었습니다",
 		"edit": "편집",
 		"title": "제품 카테고리 목록"
+	},
+	"admin-shop-add": {
+		"addShopFailed": "상점 추가 실패",
+		"addShopSuccess": "추가 된 상점 성공",
+		"address": "매장 주소",
+		"brief": "매장 소개",
+		"desc": "상점 설명",
+		"shop-add": "가게 추가",
+		"shopPicture": "가게 사진",
+		"website": "URL"
+	},
+	"admin-shop-edit": {
+		"shop-edit": "상점 편집"
+	},
+	"admin-shop-list": {
+		"title": "점포리스트"
 	},
 	"cart": {
 		"color": "색깔",

@@ -19,6 +19,16 @@
 		"addShippingAddress": "Add Shipping Address",
 		"shoppingAddress": "Delivery address"
 	},
+	"admin": {
+		"dashboard": "Panel",
+		"goods-category-list": "Product Category List",
+		"goods-in-list": "Commodity storage list",
+		"goods-info-list": "Product information list",
+		"goods-out-list": "Product Outbound List",
+		"goods-sku-list": "Product SKU List",
+		"personal": "Personal center",
+		"shop-list": "Store List"
+	},
 	"admin-category-add": {
 		"add": "Add to",
 		"addFailed": "add failed",
@@ -28,6 +38,7 @@
 		"classify": "Classification",
 		"code": "coding",
 		"desc": "Description",
+		"has_entity": "",
 		"level_one": "First level",
 		"level_three": "Third grade",
 		"level_two": "Secondary",
@@ -52,6 +63,22 @@
 		"deleteSuccess": "Successfully deleted",
 		"edit": "EDIT",
 		"title": "Product Category List"
+	},
+	"admin-shop-add": {
+		"addShopFailed": "Adding a store failed",
+		"addShopSuccess": "Added store success",
+		"address": "Shop address",
+		"brief": "Store Introduction",
+		"desc": "Store description",
+		"shop-add": "Add shop",
+		"shopPicture": "Shop photo",
+		"website": "Url"
+	},
+	"admin-shop-edit": {
+		"shop-edit": "Store edit"
+	},
+	"admin-shop-list": {
+		"title": "Store List"
 	},
 	"cart": {
 		"color": "colour",

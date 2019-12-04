@@ -19,6 +19,16 @@
 		"addShippingAddress": "Thêm địa chỉ giao hàng",
 		"shoppingAddress": "Địa chỉ giao hàng"
 	},
+	"admin": {
+		"dashboard": "bảng điều khiển",
+		"goods-category-list": "danh mục sản phẩm",
+		"goods-in-list": "Danh sách lưu trữ hàng hóa",
+		"goods-info-list": "Danh sách thông tin sản phẩm",
+		"goods-out-list": "Danh sách sản phẩm ra nước ngoài",
+		"goods-sku-list": "Danh sách sản phẩm SKU",
+		"personal": "Trung tâm cá nhân",
+		"shop-list": "Danh sách cửa hàng"
+	},
 	"admin-category-add": {
 		"add": "Thêm",
 		"addFailed": "Thêm thất bại",
@@ -28,6 +38,7 @@
 		"classify": "Phân loại",
 		"code": "Mã hóa",
 		"desc": "Mô tả",
+		"has_entity": "",
 		"level_one": "Cấp độ đầu tiên",
 		"level_three": "cấp ba",
 		"level_two": "cấp hai",
@@ -52,6 +63,22 @@
 		"deleteSuccess": "Đã xóa thành công",
 		"edit": "chỉnh sửa",
 		"title": "danh mục loại sản phẩm"
+	},
+	"admin-shop-add": {
+		"addShopFailed": "Thêm một cửa hàng thất bại",
+		"addShopSuccess": "Đã thêm cửa hàng thành công",
+		"address": "Địa chỉ cửa hàng",
+		"brief": "Giới thiệu cửa hàng",
+		"desc": "Mô tả cửa hàng",
+		"shop-add": "Thêm cửa hàng",
+		"shopPicture": "Ảnh cửa hàng",
+		"website": "URL"
+	},
+	"admin-shop-edit": {
+		"shop-edit": "Chỉnh sửa cửa hàng"
+	},
+	"admin-shop-list": {
+		"title": "Danh sách cửa hàng"
 	},
 	"cart": {
 		"color": "Màu",

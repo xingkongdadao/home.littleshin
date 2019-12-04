@@ -19,6 +19,16 @@
 		"addShippingAddress": "配送先住所を追加",
 		"shoppingAddress": "配送先住所"
 	},
+	"admin": {
+		"dashboard": "パネル",
+		"goods-category-list": "製品カテゴリ一覧",
+		"goods-in-list": "商品保管リスト",
+		"goods-info-list": "製品情報リスト",
+		"goods-out-list": "製品アウトバウンドリスト",
+		"goods-sku-list": "製品SKUリスト",
+		"personal": "パーソナルセンター",
+		"shop-list": "店舗リスト"
+	},
 	"admin-category-add": {
 		"add": "追加する",
 		"addFailed": "追加に失敗しました",
@@ -28,6 +38,7 @@
 		"classify": "分類",
 		"code": "エンコード",
 		"desc": "説明",
+		"has_entity": "",
 		"level_one": "最初のレベル",
 		"level_three": "3年生",
 		"level_two": "二次",
@@ -52,6 +63,22 @@
 		"deleteSuccess": "正常に削除されました",
 		"edit": "編集する",
 		"title": "製品カテゴリ一覧"
+	},
+	"admin-shop-add": {
+		"addShopFailed": "ストアの追加に失敗しました",
+		"addShopSuccess": "ストアの成功を追加",
+		"address": "店舗住所",
+		"brief": "店舗紹介",
+		"desc": "店舗説明",
+		"shop-add": "ショップを追加",
+		"shopPicture": "ショップ写真",
+		"website": "URL"
+	},
+	"admin-shop-edit": {
+		"shop-edit": "ストア編集"
+	},
+	"admin-shop-list": {
+		"title": "店舗リスト"
 	},
 	"cart": {
 		"color": "色",

@@ -19,6 +19,16 @@
 		"addShippingAddress": "添加送貨地址",
 		"shoppingAddress": "送貨地址"
 	},
+	"admin": {
+		"dashboard": "面板",
+		"goods-category-list": "商品類別列表",
+		"goods-in-list": "商品入庫列表",
+		"goods-info-list": "商品信息列表",
+		"goods-out-list": "商品出庫列表",
+		"goods-sku-list": "商品SKU列表",
+		"personal": "個人中心",
+		"shop-list": "商店列表"
+	},
 	"admin-category-add": {
 		"add": "添加",
 		"addFailed": "添加失敗",
@@ -28,6 +38,7 @@
 		"classify": "分類",
 		"code": "編碼",
 		"desc": "描述",
+		"has_entity": "",
 		"level_one": "一級",
 		"level_three": "三級",
 		"level_two": "二級",
@@ -52,6 +63,22 @@
 		"deleteSuccess": "刪除成功",
 		"edit": "編輯",
 		"title": "商品類別列表"
+	},
+	"admin-shop-add": {
+		"addShopFailed": "添加店鋪失敗",
+		"addShopSuccess": "添加店鋪成功",
+		"address": "店鋪地址",
+		"brief": "店鋪簡介",
+		"desc": "店鋪描述",
+		"shop-add": "添加店鋪",
+		"shopPicture": "店鋪照片",
+		"website": "網址"
+	},
+	"admin-shop-edit": {
+		"shop-edit": "商店編輯"
+	},
+	"admin-shop-list": {
+		"title": "商店列表"
 	},
 	"cart": {
 		"color": "顏色",
