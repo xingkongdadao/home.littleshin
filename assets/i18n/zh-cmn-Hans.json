@@ -20,6 +20,7 @@
 		"shoppingAddress": "送货地址"
 	},
 	"admin": {
+		"city-list": "城市列表",
 		"dashboard": "面板",
 		"goods-category-list": "商品类别列表",
 		"goods-in-list": "商品入库列表",
@@ -64,11 +65,25 @@
 		"edit": "编辑",
 		"title": "商品类别列表"
 	},
+	"admin-city-add": {
+		"addCityFailed": "添加城市失败",
+		"addCitySuccess": "添加城市成功",
+		"city-add": "添加城市",
+		"desc": "描述",
+		"name": "城市名称"
+	},
+	"admin-city-edit": {
+		"city-edit": "修改城市"
+	},
+	"admin-city-list": {
+		"city-list": "城市列表"
+	},
 	"admin-shop-add": {
 		"addShopFailed": "添加店铺失败",
 		"addShopSuccess": "添加店铺成功",
 		"address": "店铺地址",
 		"brief": "店铺简介",
+		"city": "城市",
 		"desc": "店铺描述",
 		"shop-add": "添加店铺",
 		"shopPicture": "店铺照片",

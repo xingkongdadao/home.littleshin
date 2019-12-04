@@ -20,6 +20,7 @@
 		"shoppingAddress": "Địa chỉ giao hàng"
 	},
 	"admin": {
+		"city-list": "Danh sách thành phố",
 		"dashboard": "bảng điều khiển",
 		"goods-category-list": "danh mục sản phẩm",
 		"goods-in-list": "Danh sách lưu trữ hàng hóa",
@@ -64,11 +65,25 @@
 		"edit": "chỉnh sửa",
 		"title": "danh mục loại sản phẩm"
 	},
+	"admin-city-add": {
+		"addCityFailed": "Không thể thêm thành phố",
+		"addCitySuccess": "Đã thêm thành phố",
+		"city-add": "Thêm thành phố",
+		"desc": "Mô tả",
+		"name": "Tên thành phố"
+	},
+	"admin-city-edit": {
+		"city-edit": "Chỉnh sửa thành phố"
+	},
+	"admin-city-list": {
+		"city-list": "Danh sách thành phố"
+	},
 	"admin-shop-add": {
 		"addShopFailed": "Thêm một cửa hàng thất bại",
 		"addShopSuccess": "Đã thêm cửa hàng thành công",
 		"address": "Địa chỉ cửa hàng",
 		"brief": "Giới thiệu cửa hàng",
+		"city": "thành phố",
 		"desc": "Mô tả cửa hàng",
 		"shop-add": "Thêm cửa hàng",
 		"shopPicture": "Ảnh cửa hàng",

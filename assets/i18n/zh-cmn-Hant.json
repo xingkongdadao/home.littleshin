@@ -20,6 +20,7 @@
 		"shoppingAddress": "送貨地址"
 	},
 	"admin": {
+		"city-list": "城市列表",
 		"dashboard": "面板",
 		"goods-category-list": "商品類別列表",
 		"goods-in-list": "商品入庫列表",
@@ -64,11 +65,25 @@
 		"edit": "編輯",
 		"title": "商品類別列表"
 	},
+	"admin-city-add": {
+		"addCityFailed": "添加城市失敗",
+		"addCitySuccess": "添加城市成功",
+		"city-add": "添加城市",
+		"desc": "描述",
+		"name": "城市名稱"
+	},
+	"admin-city-edit": {
+		"city-edit": "修改城市"
+	},
+	"admin-city-list": {
+		"city-list": "城市列表"
+	},
 	"admin-shop-add": {
 		"addShopFailed": "添加店鋪失敗",
 		"addShopSuccess": "添加店鋪成功",
 		"address": "店鋪地址",
 		"brief": "店鋪簡介",
+		"city": "城市",
 		"desc": "店鋪描述",
 		"shop-add": "添加店鋪",
 		"shopPicture": "店鋪照片",

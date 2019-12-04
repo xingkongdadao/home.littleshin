@@ -20,6 +20,7 @@
 		"shoppingAddress": "Delivery address"
 	},
 	"admin": {
+		"city-list": "City list",
 		"dashboard": "Panel",
 		"goods-category-list": "Product Category List",
 		"goods-in-list": "Commodity storage list",
@@ -64,11 +65,25 @@
 		"edit": "EDIT",
 		"title": "Product Category List"
 	},
+	"admin-city-add": {
+		"addCityFailed": "Failed to add city",
+		"addCitySuccess": "Added city successfully",
+		"city-add": "Add City",
+		"desc": "Description",
+		"name": "City name"
+	},
+	"admin-city-edit": {
+		"city-edit": "Edit city"
+	},
+	"admin-city-list": {
+		"city-list": "City list"
+	},
 	"admin-shop-add": {
 		"addShopFailed": "Adding a store failed",
 		"addShopSuccess": "Added store success",
 		"address": "Shop address",
 		"brief": "Store Introduction",
+		"city": "city",
 		"desc": "Store description",
 		"shop-add": "Add shop",
 		"shopPicture": "Shop photo",

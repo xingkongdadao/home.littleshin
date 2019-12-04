@@ -20,6 +20,7 @@
 		"shoppingAddress": "배송지 주소"
 	},
 	"admin": {
+		"city-list": "도시 목록",
 		"dashboard": "패널",
 		"goods-category-list": "제품 카테고리 목록",
 		"goods-in-list": "상품 보관 목록",
@@ -64,11 +65,25 @@
 		"edit": "편집",
 		"title": "제품 카테고리 목록"
 	},
+	"admin-city-add": {
+		"addCityFailed": "도시를 추가하지 못했습니다",
+		"addCitySuccess": "도시 추가",
+		"city-add": "도시 추가",
+		"desc": "설명",
+		"name": "도시 이름"
+	},
+	"admin-city-edit": {
+		"city-edit": "도시 수정"
+	},
+	"admin-city-list": {
+		"city-list": "도시 목록"
+	},
 	"admin-shop-add": {
 		"addShopFailed": "상점 추가 실패",
 		"addShopSuccess": "추가 된 상점 성공",
 		"address": "매장 주소",
 		"brief": "매장 소개",
+		"city": "도시",
 		"desc": "상점 설명",
 		"shop-add": "가게 추가",
 		"shopPicture": "가게 사진",

@@ -20,6 +20,7 @@
 		"shoppingAddress": "配送先住所"
 	},
 	"admin": {
+		"city-list": "都市リスト",
 		"dashboard": "パネル",
 		"goods-category-list": "製品カテゴリ一覧",
 		"goods-in-list": "商品保管リスト",
@@ -64,11 +65,25 @@
 		"edit": "編集する",
 		"title": "製品カテゴリ一覧"
 	},
+	"admin-city-add": {
+		"addCityFailed": "都市を追加できませんでした",
+		"addCitySuccess": "都市を追加しました",
+		"city-add": "都市を追加",
+		"desc": "説明",
+		"name": "都市名"
+	},
+	"admin-city-edit": {
+		"city-edit": "都市を編集"
+	},
+	"admin-city-list": {
+		"city-list": "都市リスト"
+	},
 	"admin-shop-add": {
 		"addShopFailed": "ストアの追加に失敗しました",
 		"addShopSuccess": "ストアの成功を追加",
 		"address": "店舗住所",
 		"brief": "店舗紹介",
+		"city": "街",
 		"desc": "店舗説明",
 		"shop-add": "ショップを追加",
 		"shopPicture": "ショップ写真",
