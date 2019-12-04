@@ -27,6 +27,7 @@
 		"goods-info-list": "商品信息列表",
 		"goods-out-list": "商品出库列表",
 		"goods-sku-list": "商品SKU列表",
+		"menu": "菜单",
 		"personal": "个人中心",
 		"shop-list": "商店列表"
 	},
@@ -68,9 +69,15 @@
 	"admin-city-add": {
 		"addCityFailed": "添加城市失败",
 		"addCitySuccess": "添加城市成功",
+		"city": "城市",
 		"city-add": "添加城市",
+		"classify": "城市类型",
+		"country": "国家",
 		"desc": "描述",
-		"name": "城市名称"
+		"district": "区/县",
+		"name": "城市名称",
+		"name_vn": "越南语",
+		"province": "省/直辖市"
 	},
 	"admin-city-edit": {
 		"city-edit": "修改城市"

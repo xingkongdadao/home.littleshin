@@ -27,6 +27,7 @@
 		"goods-info-list": "제품 정보 목록",
 		"goods-out-list": "제품 아웃 바운드 목록",
 		"goods-sku-list": "제품 SKU 목록",
+		"menu": "메뉴",
 		"personal": "개인 센터",
 		"shop-list": "점포리스트"
 	},
@@ -68,9 +69,15 @@
 	"admin-city-add": {
 		"addCityFailed": "도시를 추가하지 못했습니다",
 		"addCitySuccess": "도시 추가",
+		"city": "도시",
 		"city-add": "도시 추가",
+		"classify": "도시 유형",
+		"country": "국가",
 		"desc": "설명",
-		"name": "도시 이름"
+		"district": "지구 / 카운티",
+		"name": "도시 이름",
+		"name_vn": "베트남어",
+		"province": "지방 / 시정촌"
 	},
 	"admin-city-edit": {
 		"city-edit": "도시 수정"
@@ -177,7 +184,7 @@
 	},
 	"personal": {
 		"about": "이 사이트에 대하여",
-		"admin": "",
+		"admin": "무대 뒤에서",
 		"all_order": "모든 주문",
 		"login": "로그인",
 		"logout": "로그 아웃",

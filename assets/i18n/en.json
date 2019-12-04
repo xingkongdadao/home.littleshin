@@ -27,6 +27,7 @@
 		"goods-info-list": "Product information list",
 		"goods-out-list": "Product Outbound List",
 		"goods-sku-list": "Product SKU List",
+		"menu": "Menu",
 		"personal": "Personal center",
 		"shop-list": "Store List"
 	},
@@ -68,9 +69,15 @@
 	"admin-city-add": {
 		"addCityFailed": "Failed to add city",
 		"addCitySuccess": "Added city successfully",
+		"city": "city",
 		"city-add": "Add City",
+		"classify": "City type",
+		"country": "country",
 		"desc": "Description",
-		"name": "City name"
+		"district": "District / County",
+		"name": "City name",
+		"name_vn": "Vietnamese",
+		"province": "State / Province"
 	},
 	"admin-city-edit": {
 		"city-edit": "Edit city"

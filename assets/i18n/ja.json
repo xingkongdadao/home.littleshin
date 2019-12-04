@@ -27,6 +27,7 @@
 		"goods-info-list": "製品情報リスト",
 		"goods-out-list": "製品アウトバウンドリスト",
 		"goods-sku-list": "製品SKUリスト",
+		"menu": "メニュー",
 		"personal": "パーソナルセンター",
 		"shop-list": "店舗リスト"
 	},
@@ -68,9 +69,15 @@
 	"admin-city-add": {
 		"addCityFailed": "都市を追加できませんでした",
 		"addCitySuccess": "都市を追加しました",
+		"city": "街",
 		"city-add": "都市を追加",
+		"classify": "都市タイプ",
+		"country": "国",
 		"desc": "説明",
-		"name": "都市名"
+		"district": "地区/郡",
+		"name": "都市名",
+		"name_vn": "ベトナム人",
+		"province": "州/市町村"
 	},
 	"admin-city-edit": {
 		"city-edit": "都市を編集"
@@ -177,7 +184,7 @@
 	},
 	"personal": {
 		"about": "このサイトについて",
-		"admin": "",
+		"admin": "舞台裏",
 		"all_order": "すべての注文",
 		"login": "ログイン",
 		"logout": "ログアウト",

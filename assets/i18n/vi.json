@@ -27,6 +27,7 @@
 		"goods-info-list": "Danh sách thông tin sản phẩm",
 		"goods-out-list": "Danh sách sản phẩm ra nước ngoài",
 		"goods-sku-list": "Danh sách sản phẩm SKU",
+		"menu": "Menu",
 		"personal": "Trung tâm cá nhân",
 		"shop-list": "Danh sách cửa hàng"
 	},
@@ -68,9 +69,15 @@
 	"admin-city-add": {
 		"addCityFailed": "Không thể thêm thành phố",
 		"addCitySuccess": "Đã thêm thành phố",
+		"city": "thành phố",
 		"city-add": "Thêm thành phố",
+		"classify": "Loại thành phố",
+		"country": "Đất nước",
 		"desc": "Mô tả",
-		"name": "Tên thành phố"
+		"district": "Quận",
+		"name": "Tên thành phố",
+		"name_vn": "Tiếng việt nam",
+		"province": "Tỉnh / thành phố"
 	},
 	"admin-city-edit": {
 		"city-edit": "Chỉnh sửa thành phố"
